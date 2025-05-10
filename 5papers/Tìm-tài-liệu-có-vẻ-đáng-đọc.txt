@@ -1,0 +1,98 @@
+(BT NHÓM) Bài tập về nhà: 
+- Mỗi nhóm tự chọn ra 1 chủ đề/lĩnh vực, chọn ra 3N bài mà mình cho là đáng đọc, (DL: Chủ nhật 30/3/2025)
+(BT CÁ NHÂN) How to hack cái thuật toán nào có sẵn nma có lỗ hổng (DL 5/4 - 5 người đầu tiên nộp bài sẽ có quà):
+	- Không mất thời gian chỉ ra thuật toán
+	- Tìm cách chỉ ra chỗ false (bằng cái hypothesis)
+
+
+Tìm tài liệu có vẻ đáng đọc:
+- Tạp chí ==>
+	Scopus index ==> Q1, Q2, Q3, Q4 (Quartitle)
+		scimago: gõ vào cuối là biết more info
+	Web of Science (WoS) Q1, Q2, Q3, Q4
+		SCI (không còn dùng)
+		SCI-E
+		E-SCI (emerging)
+	h-index: 
+		k lớn nhất sao cho:
+			người đó / tạp chí đó có ít nhất k bài báo, mỗi bài báo được nhắc tới ít nhất k lần
+
+- Hội nghị:
+	Rank A*/A/B/C
+	CORE Ranking
+	Scopus
+
+Affiliation
+Citation
+
+Bài tập về nhà: 
+- Mỗi nhóm tự chọn ra 1 chủ đề/lĩnh vực, chọn ra 3N bài mà mình cho là đáng đọc, (DL: Chủ nhật 30/3/2025)
+
+Lĩnh vực:
+VISION:
+	- CVPR, ICCV, ECCV, ACCV
+	- CVF (Computer Vision Foundation)
+	- WACV
+	- BMVC
+MACHINE LEARNING:
+	- ICLR, ICML, ICMLA
+	- NIPS, Neurips
+
+Cryptography, Security
+	- Crypto, Eurocrypt, Asiacrypt, 
+	- Association of cryptology research (IACR)
+
+Graphics:
+	- Kesen Hwang
+
+Medical Image Analysis
+	- MICCAI
+	- ISBI (not having rank, but still good - Mr. Triet rcm)
+	- 
+
+Sound and music:
+	- ICASSP
+	- 
+
+Nắm cái gì khi skimming (mục tiêu 50 bài):
+- Title
+- Abstract
+- Nhìn hình vẽ:
+1) What? (objective)
+2) Why? (motivation)
+3) Key ideas?
+4) Result (number)
+
+NotebookLM: hỗ trợ 
+
+What ==> Input, Output, main task
+
+classification
+detection
+recognition
+verification
+precognition
+
+How to hack cái thuật toán nào có sẵn nma có lỗ hổng (DL 5/4 - 5 người đầu tiên nộp bài sẽ có quà):
+	- Không mất thời gian chỉ ra thuật toán
+	- Tìm cách chỉ ra chỗ false (bằng cái hypothesis)
+
+2023:
+	Q1/A: 20TR
+	Q2/B: 15TR
+	Q3/C: 10TR
+	Scopus: 5TR
+2024: 2023 + 5TR
+
+Hội nghị (nộp 5 - 7tr để được bài báo - lệ phí: nếu có policy support cho sv được tài trợ, nếu học CNTN được tài trợ max 4tr5, APCS 400$):
+	- MAPR (UIT)
+	- FDSE
+	- ACOMPA
+	- KSE
+	- SOICT
+	
+	Hội nghị rank B sắp đến VN: ICMR (2027), MMM (2027)
+
+
+
+
